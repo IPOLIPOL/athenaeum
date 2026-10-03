@@ -1,0 +1,22 @@
+Athenaeum Common Lisp rewrite
+Generated: 2026-10-02
+
+Source files:
+- README.md
+- athenaeum.asd
+- src/model.lisp
+- src/html.lisp
+- src/build.lisp
+- src/styles.css
+- src/keyboard.js
+- data/library.lisp
+- scripts/build.sh
+- scripts/test.sh
+- tests/smoke.lisp
+- .github/workflows/pages.yml
+
+Existing binary/static resources from the original repository are intentionally not duplicated here:
+- assets/
+- docs/
+
+Copy/retain those directories from the existing IPOLIPOL/Literature repository.
